@@ -1,5 +1,5 @@
 addpath(genpath('./data'));
-dataset = {'Yaleb10'};
+dataset = {'kddcup99'};
 
 %%%%%%%%%%%%set parameters
 para.maxtime = 500;
